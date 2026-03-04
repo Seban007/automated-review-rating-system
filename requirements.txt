@@ -1,0 +1,5 @@
+Flask
+tenserflow
+numpy
+nltk
+scikit-learn
